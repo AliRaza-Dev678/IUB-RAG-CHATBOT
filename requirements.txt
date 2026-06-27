@@ -31,3 +31,5 @@ streamlit
 
 numpy
 pandas
+beautifulsoup4
+html2text
